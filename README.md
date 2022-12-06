@@ -1,4 +1,12 @@
 # Gunz1.5
+  ##Added Vulkan translation layers and higher resolution timers solutions to  prevent discord and other weird driver to mess with the client resolution timing
+
+
+
+
+
+
+
 
 This source contains all official game modes, as well as 
 several custom game modes, and has alterations
